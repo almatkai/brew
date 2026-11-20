@@ -1,0 +1,242 @@
+[
+  {
+    "name": "adopt-apps.tsx",
+    "path": "extensions/brew/src/adopt-apps.tsx",
+    "sha": "0941216ae565ac558226ad9825064f41d6545378",
+    "size": 24153,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/adopt-apps.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/adopt-apps.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/0941216ae565ac558226ad9825064f41d6545378",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/adopt-apps.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/adopt-apps.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/0941216ae565ac558226ad9825064f41d6545378",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/adopt-apps.tsx"
+    }
+  },
+  {
+    "name": "clean-up.tsx",
+    "path": "extensions/brew/src/clean-up.tsx",
+    "sha": "0f2d8a3a01e732bf1f3381c06626032ce50cec48",
+    "size": 686,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/clean-up.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/clean-up.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/0f2d8a3a01e732bf1f3381c06626032ce50cec48",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/clean-up.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/clean-up.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/0f2d8a3a01e732bf1f3381c06626032ce50cec48",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/clean-up.tsx"
+    }
+  },
+  {
+    "name": "clear-cache.tsx",
+    "path": "extensions/brew/src/clear-cache.tsx",
+    "sha": "2d4c77d4a4714f17ee5c7d91fd59e585d7b51a9d",
+    "size": 55,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/clear-cache.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/clear-cache.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/2d4c77d4a4714f17ee5c7d91fd59e585d7b51a9d",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/clear-cache.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/clear-cache.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/2d4c77d4a4714f17ee5c7d91fd59e585d7b51a9d",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/clear-cache.tsx"
+    }
+  },
+  {
+    "name": "components",
+    "path": "extensions/brew/src/components",
+    "sha": "49672bafd3cdedcd2139568a9cdc52b193b57845",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/components?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/tree/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/components",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/49672bafd3cdedcd2139568a9cdc52b193b57845",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/components?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/49672bafd3cdedcd2139568a9cdc52b193b57845",
+      "html": "https://github.com/raycast/extensions/tree/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/components"
+    }
+  },
+  {
+    "name": "hooks",
+    "path": "extensions/brew/src/hooks",
+    "sha": "df7b8eae58586f0a4dcac42eea9c32098b84ef70",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/hooks?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/tree/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/hooks",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/df7b8eae58586f0a4dcac42eea9c32098b84ef70",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/hooks?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/df7b8eae58586f0a4dcac42eea9c32098b84ef70",
+      "html": "https://github.com/raycast/extensions/tree/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/hooks"
+    }
+  },
+  {
+    "name": "installed.tsx",
+    "path": "extensions/brew/src/installed.tsx",
+    "sha": "6133cad0c22c06dfd7d899b0ef3fea9b3613fab1",
+    "size": 3043,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/installed.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/installed.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/6133cad0c22c06dfd7d899b0ef3fea9b3613fab1",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/installed.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/installed.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/6133cad0c22c06dfd7d899b0ef3fea9b3613fab1",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/installed.tsx"
+    }
+  },
+  {
+    "name": "manage-services.tsx",
+    "path": "extensions/brew/src/manage-services.tsx",
+    "sha": "ab8c4d7aba123f67e8825c0f79a7fe7d3f3f6471",
+    "size": 2805,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/manage-services.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/manage-services.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/ab8c4d7aba123f67e8825c0f79a7fe7d3f3f6471",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/manage-services.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/manage-services.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/ab8c4d7aba123f67e8825c0f79a7fe7d3f3f6471",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/manage-services.tsx"
+    }
+  },
+  {
+    "name": "manage-taps.tsx",
+    "path": "extensions/brew/src/manage-taps.tsx",
+    "sha": "eff92ace88b1e1fe7fd48900e7548dc293361203",
+    "size": 24174,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/manage-taps.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/manage-taps.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/eff92ace88b1e1fe7fd48900e7548dc293361203",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/manage-taps.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/manage-taps.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/eff92ace88b1e1fe7fd48900e7548dc293361203",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/manage-taps.tsx"
+    }
+  },
+  {
+    "name": "outdated.tsx",
+    "path": "extensions/brew/src/outdated.tsx",
+    "sha": "6e0cd098bcfb7fed63c3f295d0f9dc8404e02b9e",
+    "size": 19626,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/outdated.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/outdated.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/6e0cd098bcfb7fed63c3f295d0f9dc8404e02b9e",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/outdated.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/outdated.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/6e0cd098bcfb7fed63c3f295d0f9dc8404e02b9e",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/outdated.tsx"
+    }
+  },
+  {
+    "name": "run-doctor.tsx",
+    "path": "extensions/brew/src/run-doctor.tsx",
+    "sha": "b1ed6a0d64b3398d4a64ab94d5d461059f852dbd",
+    "size": 5722,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/run-doctor.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/run-doctor.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/b1ed6a0d64b3398d4a64ab94d5d461059f852dbd",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/run-doctor.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/run-doctor.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/b1ed6a0d64b3398d4a64ab94d5d461059f852dbd",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/run-doctor.tsx"
+    }
+  },
+  {
+    "name": "search.tsx",
+    "path": "extensions/brew/src/search.tsx",
+    "sha": "8c6fb099ee54bf60e96c38f8ad9378dd2516d4f5",
+    "size": 17459,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/search.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/search.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/8c6fb099ee54bf60e96c38f8ad9378dd2516d4f5",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/search.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/search.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/8c6fb099ee54bf60e96c38f8ad9378dd2516d4f5",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/search.tsx"
+    }
+  },
+  {
+    "name": "services-menu.tsx",
+    "path": "extensions/brew/src/services-menu.tsx",
+    "sha": "795b8740fc9986e66b566834b99d10ba3f7ff5b0",
+    "size": 4687,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/services-menu.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/services-menu.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/795b8740fc9986e66b566834b99d10ba3f7ff5b0",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/services-menu.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/services-menu.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/795b8740fc9986e66b566834b99d10ba3f7ff5b0",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/services-menu.tsx"
+    }
+  },
+  {
+    "name": "show-vulnerabilities.tsx",
+    "path": "extensions/brew/src/show-vulnerabilities.tsx",
+    "sha": "8d7bdab5bce9357a106ba0566dfa7e5ea334e920",
+    "size": 15740,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/show-vulnerabilities.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/show-vulnerabilities.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/8d7bdab5bce9357a106ba0566dfa7e5ea334e920",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/show-vulnerabilities.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/show-vulnerabilities.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/8d7bdab5bce9357a106ba0566dfa7e5ea334e920",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/show-vulnerabilities.tsx"
+    }
+  },
+  {
+    "name": "upgrade.tsx",
+    "path": "extensions/brew/src/upgrade.tsx",
+    "sha": "95e251f318070adfe60841e611b6cd378bee69f9",
+    "size": 2997,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/upgrade.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/upgrade.tsx",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/95e251f318070adfe60841e611b6cd378bee69f9",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/upgrade.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/upgrade.tsx?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/95e251f318070adfe60841e611b6cd378bee69f9",
+      "html": "https://github.com/raycast/extensions/blob/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/upgrade.tsx"
+    }
+  },
+  {
+    "name": "utils",
+    "path": "extensions/brew/src/utils",
+    "sha": "1def0d03a2e29baec7462ffb9c5064ccc82f7f83",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/utils?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+    "html_url": "https://github.com/raycast/extensions/tree/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/utils",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/1def0d03a2e29baec7462ffb9c5064ccc82f7f83",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/brew/src/utils?ref=b1e7745b664f9cde82b6e671fc760e8488501a05",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/1def0d03a2e29baec7462ffb9c5064ccc82f7f83",
+      "html": "https://github.com/raycast/extensions/tree/b1e7745b664f9cde82b6e671fc760e8488501a05/extensions/brew/src/utils"
+    }
+  }
+]

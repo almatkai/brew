@@ -1,0 +1,24 @@
+[package]
+name = "tezbar-brew"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.98"
+license = "MIT"
+
+[dependencies]
+tezbar-extension-sdk = { git = "https://github.com/almatkai/tezbar-extension-sdk-rust.git", rev = "e955911f0bf5b558f9d3eb5183df0adc95c22af2", version = "=0.1.1" }
+serde_json = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "process", "io-util", "sync", "time"] }
+uuid = { version = "=1.23.3", features = ["v4"] }
+plist = "1"
+
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"
+
+[dev-dependencies]
+tempfile = "3"
+
+[profile.release]
+strip = true
+lto = "thin"
+codegen-units = 1
